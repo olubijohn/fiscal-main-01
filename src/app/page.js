@@ -1,7 +1,14 @@
-import Navbar from "@/navbar/navbar";
+import Navbar from "@/components/Navbar";
+import HeroSection from "@/components/HeroSection";
+import Section4 from "@/components/Section4"; // Add this import
 
-function HomePage() {
-  return <Navbar />;
+export default function Home() {
+  return (
+    <main className="min-h-screen">
+      <Navbar />
+      <HeroSection />
+      <Section4 /> {/* Add this component */}
+      {/* Other sections will go here */}
+    </main>
+  );
 }
-
-export default HomePage;
