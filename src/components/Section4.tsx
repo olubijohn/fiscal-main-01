@@ -9,7 +9,7 @@ export default function Section4() {
       <div className="max-w-7xl mx-auto">
         {/* Section Header */}
         <div className="text-center mb-16">
-          <h1 className="text-3xl md:text-4xl font-bold text-gray-900 rounded-full border-2 border-gray-900 px-8 py-3 inline-block">
+          <h1 className="text-3xl md:text-4xl font-bold text-gray-900 rounded-full border-8 border-white px-8 py-3 inline-block">
             What we do
           </h1>
           <h2 className="text-4xl md:text-5xl font-bold text-black mt-8 leading-tight">
