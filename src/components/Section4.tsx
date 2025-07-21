@@ -32,7 +32,7 @@ export default function Section4() {
             />
           </div>
           <div className="w-full lg:w-1/2 space-y-6">
-            <h3 className="text-3xl md:text-4xl font-bold text-black leading-tight">
+            <h3 className="text-3xl md:text-3xl font-bold text-black leading-tight">
               EdgeCore — For All Business Types,
               <br />
               Freelancers, and Entrepreneurs
@@ -57,9 +57,8 @@ export default function Section4() {
             {" "}
             {/* Text moved left */}
             <h3 className="text-3xl md:text-4xl font-bold text-black leading-tight">
-              EdgeFiscal — For Tax-Compliant
-              <br />
-              Businesses
+              EdgeFiscal — For <br />
+              Tax-Compliant Businesses
             </h3>
             <p className="text-xl text-gray-600">
               Built for businesses operating in countries with Smart Invoice
